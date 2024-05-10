@@ -1,4 +1,4 @@
-# <a name="top"></a> Phishing: Phân tích Bản chất, Mục đích và Các Loại Hình Phổ Biến
+# Phishing: Phân tích Bản chất, Mục đích và Các Loại Hình Phổ Biến
 
 <small>*Ngày cập nhật: 10 tháng 5, 2024 - 15:30*</small>
 
@@ -74,7 +74,6 @@ Ngoài những hình thức phishing phổ biến ở trên, chúng ta cũng có
 
 Mục đích chung của tất cả các hình thức lừa đảo này đều là đánh lừa người dùng, khai thác lỗ hổng bảo mật để đánh cắp thông tin cá nhân, tài chính hoặc lừa đảo thanh toán. Do vậy, trong thời đại công nghệ 4.0 với sự phát triển mạnh mẽ của trí tuệ nhân tạo, việc nâng cao nhận thức và cảnh giác của người dùng về các thủ đoạn lừa đảo tinh vi này là vô cùng quan trọng để bảo vệ bản thân khỏi những rủi ro an ninh mạng.
 
-[Quay lại đầu trang](#top)
 
 
 
