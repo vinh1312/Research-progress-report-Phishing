@@ -1,6 +1,6 @@
 # <a name="top"></a> Phishing: Phân tích Bản chất, Mục đích và Các Loại Hình Phổ Biến
 
-<small>*Ngày cập nhật: 9 tháng 5, 2024 - 15:30*</small>
+<small>*Ngày cập nhật: 10 tháng 5, 2024 - 15:30*</small>
 
 `Phishing`, hay còn gọi là `tấn công giả mạo`, là một hình thức lừa đảo trực tuyến tinh vi nhằm đánh cắp thông tin nhạy cảm của người dùng, bao gồm tên đăng nhập, mật khẩu, thông tin tài chính và dữ liệu cá nhân. Kẻ tấn công thường sử dụng các phương thức như email, tin nhắn văn bản, cuộc gọi điện thoại, trang web giả mạo và mạng xã hội để tiếp cận và thao túng nạn nhân.
 
