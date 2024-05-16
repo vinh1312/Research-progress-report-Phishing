@@ -1,6 +1,6 @@
 # Phishing: Phân tích Bản chất, Mục đích và Các Loại Hình Phổ Biến
 
-<small>*Ngày cập nhật: 10 tháng 5, 2024 - 15:30*</small>
+<small>*Ngày cập nhật: 9 tháng 5, 2024 - 15:30*</small>
 
 `Phishing`, hay còn gọi là `tấn công giả mạo`, là một hình thức lừa đảo trực tuyến tinh vi nhằm đánh cắp thông tin nhạy cảm của người dùng, bao gồm tên đăng nhập, mật khẩu, thông tin tài chính và dữ liệu cá nhân. Kẻ tấn công thường sử dụng các phương thức như email, tin nhắn văn bản, cuộc gọi điện thoại, trang web giả mạo và mạng xã hội để tiếp cận và thao túng nạn nhân.
 
@@ -72,18 +72,4 @@ Còn được gọi là `Voice Phishing`, là một hình thức lừa đảo qu
 
 Ngoài những hình thức phishing phổ biến ở trên, chúng ta cũng có những loại khác cũng cùng cách thức hoạt động chẳng hạn như `smishing` là một hình thức gửi tin nhắn văn bản SMS từ tổ chức uy tín hoặc cá nhân có sức ảnh hưởng lớn. `Pharming` sẽ chuyển hướng người dùng đến một trang web giả mạo thay vì một trang web chính thức. `Tabnabbing` sẽ khai thác lỗ hổng của trang web để đánh cắp thông tin. `Deceptive sites` sẽ tạo ra các trang web giả mạo có giao diện và nội dung giống hệt trang web thật để đánh lừa người dùng.
 
-<<<<<<< HEAD
 Mục đích chung của tất cả các hình thức lừa đảo này đều là đánh lừa người dùng, khai thác lỗ hổng bảo mật để đánh cắp thông tin cá nhân, tài chính hoặc lừa đảo thanh toán. Do vậy, trong thời đại công nghệ 4.0 với sự phát triển mạnh mẽ của trí tuệ nhân tạo, việc nâng cao nhận thức và cảnh giác của người dùng về các thủ đoạn lừa đảo tinh vi này là vô cùng quan trọng để bảo vệ bản thân khỏi những rủi ro an ninh mạng.
-=======
-Mục đích chung của tất cả các hình thức lừa đảo này đều là đánh lừa người dùng, khai thác lỗ hổng bảo mật để đánh cắp thông tin cá nhân, tài chính hoặc lừa đảo thanh toán. Do vậy, trong thời đại công nghệ 4.0 với sự phát triển mạnh mẽ của trí tuệ nhân tạo, việc nâng cao nhận thức và cảnh giác của người dùng về các thủ đoạn lừa đảo tinh vi này là vô cùng quan trọng để bảo vệ bản thân khỏi những rủi ro an ninh mạng.
-
-
-
-
-
-
-
-
-
-
->>>>>>> origin/master

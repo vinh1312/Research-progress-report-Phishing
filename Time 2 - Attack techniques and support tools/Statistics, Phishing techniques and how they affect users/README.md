@@ -1,5 +1,7 @@
 # Thống kê số liệu, các loại kỹ thuật Phishing và cách chúng tác động người dùng
 
+<small>*Ngày cập nhật: 16 tháng 5, 2024 - 15:30*</small>
+
 Chuyển đổi an ninh mạng đang diễn ra với tốc độ chóng mặt, cùng với đó các biện pháp phòng thủ kỹ thuật ngày càng tinh vi hơn ra đời mỗi ngày. Tuy nhiên, điều này cũng khiến chính `con người` – yếu tố dễ bị tấn công hơn – trở thành mục tiêu hấp dẫn đối với tin tặc. Lừa dối người dùng thường đơn giản và hiệu quả hơn nhiều so với việc vượt qua các hệ thống phòng thủ nhiều lớp. Nhận thức được điều này, tin tặc đang chuyển hướng sang các chiến thuật kỹ thuật xã hội tinh vi để vượt qua các lá chắn an ninh mạng cứng rắn, điển hình nhất là `Phishing`.
 
 ## Nội dung chính:
